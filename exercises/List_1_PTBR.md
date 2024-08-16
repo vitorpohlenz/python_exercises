@@ -20,7 +20,7 @@ Peça três números ao usuário e exiba o maior entre eles;
 Peça uma string ao usuário e exiba o número de caracteres;
 
 ## 7. Fatorial de um Número
-Calcule o fatorial de um número dado pelo usuário usando um loop.
+Calcule o fatorial de um número dado pelo usuário usando um loop;
 
 ## 8. Tabuada de um Número
 Peça um número ao usuário e exiba a tabuada desse número (do 1 ao 10);
@@ -92,7 +92,7 @@ Faça uma função que conte quantas consoantes uma string tem;
 Peça ao usuário um valor em reais e converta-o para dólares, usando uma taxa de câmbio fornecida pelo próprio usuário;
 
 ## 31. Por que retorna False?
-Execute o código a seguir `print((0.3 /3) == 0.1)`. Porque a saída é `False` ? Será que o interpretador quebrou?
+Execute o código a seguir `print((0.3 /3) == 0.1)`. Porque a saída é `False` ? Será que o interpretador quebrou?;
 
 ## 32. Cuidado com operações booleanas!
-Por que `3 & 5` é igual a `1` e `3 and 5` é igual `5` ?
+Por que `3 & 5` é igual a `1` e `3 and 5` é igual `5` ?;
