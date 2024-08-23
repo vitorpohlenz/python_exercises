@@ -44,55 +44,37 @@ Check if a word is a palindrome (same word read backward);
 Ask the user for five numbers and calculate their average. Challenge: generalize to as many numbers as the user wants;
 
 ## 15. Count Occurrences of a Letter
-Write a function that takes a letter and a string as input, and returns the count of that letter within the string;
+Count how many times a given letter appears within the string;
 
-## 16. Prime Number
-Write a function to check if a number is prime;
-
-## 17. Reverse List
+## 16. Reverse List
 Reverse a list;
 
-## 18. Count Words in a Sentence
-Write a function that counts the number of words in a sentence;
+## 17. Count Words in a Sentence
+Count the number of words contained in a sentence;
 
-## 19. Sum of Digits
+## 18. Sum of Digits
 Ask the user for a number and calculate the sum of its digits;
 
-## 20. Password Generator
-Write a code that generates a random 8-character password containing letters and numbers;
-
-## 21. Multiply Elements in a List
+## 19. Multiply Elements in a List
 Calculate the product of all elements in a list;
 
-## 22. Remove Spaces from a String
+## 20. Remove Spaces from a String
 Remove all spaces from any given string;
 
-## 23. Count Even and Odd Numbers in a List
-Write a function that takes a list of numbers and counts how many are even and how many are odd;
+## 21. Replace Words in a String
+Replace all occurrences of the specific word with another in a sentence;
 
-## 24. Replace Words in a String
-Write a function that takes a sentence, a word to be replaced, and a new word. Replace all occurrences of the word with the new one in the sentence;
-
-## 25. Check Initial Letter
+## 22. Check Initial Letter
 Check if a string starts with a specific letter;
 
-## 26. Convert Temperature
-Write a function that converts temperature from Celsius to Fahrenheit and vice versa;
-
-## 27. Sum of Even Elements in a List
-Write a function that calculates the sum of even numbers in a list;
-
-## 28. Check Leap Year
+## 23. Check Leap Year
 Ask the user for a year and check if it is a leap year;
 
-## 29. Count Consonants in a String
-Write a function that counts how many consonants are in a string;
-
-## 30. Currency Converter
+## 24. Currency Converter
 Ask the user for a value in reais and convert it to dollars, using an exchange rate provided by the user;
 
-## 31. Why Does It Return False?
+## 25. Why Does It Return False?
 Run the following code `print((0.3 / 3) == 0.1)`. Why is the output `False`? Did the interpreter break?;
 
-## 32. Beware of Boolean Operations!
+## 26. Beware of Boolean Operations!
 Why is `3 & 5` equal to `1` and `3 and 5` equal to `5`?;
