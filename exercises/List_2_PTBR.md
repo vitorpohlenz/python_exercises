@@ -42,11 +42,8 @@ Escreva uma função que utilize `*args` para receber números e `**kwargs` para
 ## 14. Uso da Função Embutida `sorted`
 Use a função `sorted` para ordenar uma lista de strings por comprimento;
 
-## 15. Função que Retorna Outra Função
-Crie uma função que receba um número e retorne uma função que multiplica qualquer valor por esse número;
-
-## 16. Uso da Função Embutida `zip`
+## 15. Uso da Função Embutida `zip`
 Escreva um programa que combine duas listas de mesma quantidade de elementos em pares usando a função `zip`;
 
-## 17. Função que Modifica uma Lista
+## 16. Função que Modifica uma Lista
 Escreva uma função que receba uma lista e adicione um elemento a ela. Teste com listas mutáveis e com um tupla e observe o comportamento;
