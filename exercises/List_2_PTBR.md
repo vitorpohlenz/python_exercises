@@ -37,7 +37,7 @@ Escreva uma função geradora para a sequência de Fibonacci com `n` elementos;
 Crie uma função que receba um número variável de argumentos e retorne a soma deles;
 
 ## 13. Utilizando `*args` e `**kwargs`
-Escreva uma função que utilize `*args` para receber números e `**kwargs` para receber operadores (`+, -, *, /`) e realize a operação desejada;
+Escreva uma função que utilize `*args` para receber números e `**kwargs` para receber um operador (`+, -, *, /`) e realize a operação desejada;
 
 ## 14. Uso da Função Embutida `sorted`
 Use a função `sorted` para ordenar uma lista de strings por comprimento;
