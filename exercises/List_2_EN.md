@@ -1,50 +1,49 @@
+# Python Exercises on Functions, Generators, Mutable and Immutable Objects
 
-# List 2
+## 1. Function to Calculate the Average
+Create a function that receives a list of numbers and returns their average;
 
-### Programming Exercises
+## 2. Function to Check Palindrome
+Create a function that receives a string and returns True if it is a palindrome, and False otherwise;
 
-## Python 1
+## 3. Mutable vs Immutable Function
+Create a function that tries to modify a list and a string. Observe the behavior and explain the difference between mutable and immutable objects;
 
-### Question 1
+## 4. Function with Default Argument
+Create a function that receives two numbers and returns their sum, with one argument having a default value;
 
-Write a function in Python that, given a string containing a sentence, returns a new string with the words in reverse order.
+## 5. Multiple Return
+Write a function that returns the largest and smallest number in a list;
 
-Example:  
-Input: "I like programming"  
-Output: "programming like I"
+## 6. Lambda Function
+Write a lambda function that squares a number;
 
-### Question 2
+## 7. Using the Map Function
+Use the map function to square all the elements in a list;
 
-Write a function in Python that, given a list of integers, returns the average of the values in the list.
+## 8. Using the Filter Function
+Use the filter function to filter only the even numbers in a list;
 
-### Question 3
+## 9. Using the Reduce Function
+Use the reduce function to calculate the product of all the elements in a list;
 
-Write a function in Python that, given a list of strings, returns a list containing only the strings that start with a vowel.
+## 10. Even Number Generator
+Create a generator function that returns even numbers up to a specified value;
 
-### Question 4
+## 11. Fibonacci Generator
+Write a generator function for the Fibonacci sequence with n elements;
 
-Write a function in Python that, given a list of integers, returns the maximum difference between two consecutive elements.
+## 12. Function for Argument Unpacking
+Create a function that receives a variable number of arguments and returns their sum;
 
-### Question 5
+## 13. Using *args and **kwargs
+Write a function that uses *args to receive numbers and **kwargs to receive an operator (+, -, *, /) and perform the desired operation;
 
-Write a function in Python that, given a string, returns a dictionary containing the number of occurrences of each character in the string.
+## 14. Using the Built-in sorted Function
+Use the sorted function to sort a list of strings by length;
 
-### Question 6
+## 15. Using the Built-in zip Function
+Write a program that combines two lists of the same number of elements into pairs using the zip function;
 
-Write a function in Python that, given a list of integers, returns a new list containing only the even numbers from the original list.
-
-### Question 7
-
-Write a function in Python that, given a list of integers, returns True if the list is sorted in ascending order, and False otherwise.
-
-### Question 8
-
-Write a function in Python that, given a list of integers, returns a new list with the elements sorted in ascending order, without using the `sort()` function.
-
-### Question 9
-
-Write a function in Python that, given a string, returns the same string but with all the vowels replaced by the character `*`.
-
-### Question 10
-
-Write a function in Python that, given two strings, returns `True` if one is an anagram of the other, and `False` otherwise.
+## 16. Function that Modifies a List
+Write a function that receives a list and adds an element to it. Test with mutable lists and with a tuple, and observe the behavior;
