@@ -4,10 +4,10 @@
 Crie uma classe chamada `Dog` que tenha os atributos `name` e `age`. Acesse esses atributos;
 
 ## 2. Classe com método
-Crie uma classe chamada `Car` com atributos `brand`, `model` e `year`. Crie um método que exiba essas informações;
+Crie uma classe chamada `Car` com atributos `manufacturer`, `model` e `year`. Crie um método que retorne essas informações;
 
 ## 3. Herança Simples
-Crie uma classe `Vehicle` com o método `run()`. Em seguida, crie uma classe derivada `Bicycle` que sobrescreva o método `run()` para mostrar a mensagem `"The bike is running"`;
+Crie uma classe `Vehicle` que tenha o atributo `year`. Em seguida, crie uma classe derivada `Bicycle` que tenha o método `run()` para mostrar a mensagem `"The bike is running"`. Crie um objeto/instância do tipo `Vehicle` e outro do tipo `Bicycle`, o que acontece ao tentar acessar o atributo `year` o método `run()` em ambos os casos? Por que isso ocorre?;
 
 ## 4. Uso do `super()`
 Crie uma classe `Animal` que tenha um método `sound()` que imprima `"The Animal makes sound"`. Em seguida, crie uma classe `Dog` que herde de `Animal` e sobrescreva o método `sound()` para imprimir `"The Dog barks"`. Utilize o `super()` para chamar o método da classe pai dentro da classe `Dog`;
