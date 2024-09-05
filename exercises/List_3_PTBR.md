@@ -16,7 +16,7 @@ Crie uma classe `Animal` que tenha o atributo `__weight` método `info()` que re
 Crie um objeto da classe `Dog` e utilize a função `type()` para verificar o tipo do objeto;
 
 ## 6. Verificando Instância de Classe
-Crie duas classes: `Person` e `Student`, onde `Student` herda de `Person`. Crie uma instância de `Student` e verifique se ela é uma instância tanto de `Student` quanto de `Person` utilizando `isinstance()` e `issubclass()`;
+Crie duas classes: `Person` e `Student`, onde `Student` herda de `Person`. Crie uma instância de `Student` e verifique se ela é uma instância tanto de `Student` quanto de `Person` utilizando `isinstance()`. Utilize também `issubclass()` com `Student` e `Person`;
 
 ## 7. Atributos e métodos de Classe
 Cheque se a classe `list` possui os métodos `append` e `drop`;
