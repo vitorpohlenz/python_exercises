@@ -32,13 +32,13 @@ Dada uma matriz 5x5 de números aleatórios, extraia a submatriz 2x2 localizada 
 Crie um array 1D de 10 números inteiros aleatórios. Verifique quais elementos são maiores que 5 e exiba o resultado como um array booleano e também os valores acima de 5;
 
 ## 11. Cálculo de Média e Desvio Padrão
-Dada uma matriz 4x4 de números inteiros aleatórios, calcule a média e o desvio padrão de todos os elementos;
+Dada uma matriz 4x4 de números inteiros aleatórios, calcule a média e o desvio padrão utilizando todos os elementos;
 
 ## 12. Matrizes de Zeros e Uns
 Crie uma matriz 5x5 de zeros e outra de uns usando os métodos `zeros()` e `ones()` do Numpy;
 
 ## 13. Concatenação de Arrays
-Crie dois arrays 1D de tamanho 5 e concatene-os tanto horizontalmente quanto verticalmente;
+Crie dois arrays 1D de tamanho 3 e concatene-os tanto horizontalmente quanto verticalmente;
 
 ## 14. Geração de Linspace
 Use o método `linspace()` para gerar um array de 10 elementos igualmente espaçados entre 0 e 1. Exiba o array;
