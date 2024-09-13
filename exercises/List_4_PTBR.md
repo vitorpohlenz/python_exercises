@@ -29,7 +29,7 @@ Crie um array 1D contendo 12 números e redimensione-o para uma matriz 3x4;
 Dada uma matriz 5x5 de números aleatórios, extraia a submatriz 2x2 localizada na parte superior direita;
 
 ## 10. Operações Lógicas
-Crie um array 1D de 10 números inteiros aleatórios. Verifique quais elementos são maiores que 5 e exiba o resultado como um array booleano;
+Crie um array 1D de 10 números inteiros aleatórios. Verifique quais elementos são maiores que 5 e exiba o resultado como um array booleano e também os valores acima de 5;
 
 ## 11. Cálculo de Média e Desvio Padrão
 Dada uma matriz 4x4 de números inteiros aleatórios, calcule a média e o desvio padrão de todos os elementos;
