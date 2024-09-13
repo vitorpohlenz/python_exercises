@@ -14,19 +14,19 @@ Realize a soma entre esses arrays, garanta que os mesmos números aleatórios se
 Dado um array 1D de números inteiros de 1 a 5, calcule o quadrado de cada elemento usando operações do Numpy;
 
 ## 5. Multiplicação Matricial
-Crie duas matrizes 3x3 de números aleatórios e calcule o produto matricial entre elas usando o método `dot()` do Numpy;
+Crie duas matrizes 3x3 de números aleatórios e calcule o produto matricial entre elas usando o método `dot()` do Numpy, utilize também o operador `*` e perceba a diferença;
 
 ## 6. Transposição de Matriz
 Crie uma matriz 4x3 de números aleatórios e calcule sua transposta usando o Numpy;
 
-## 7. Extração de Submatriz
-Dada uma matriz 5x5 de números aleatórios, extraia a submatriz 2x2 localizada na parte superior esquerda;
+## 7. Produto interno usual
+O que acontece se utilizar o operador `.dot()` ou `@` entre dois arrays do mesmo tamanho? E entre uma matriz e um array ? Respeitando sempre a coerência entre o número de dimensões da matriz e elementos do array;
 
 ## 8. Redimensionamento de Arrays
 Crie um array 1D contendo 12 números e redimensione-o para uma matriz 3x4;
 
 ## 9. Indexação e Slicing
-Crie um array 1D com 20 números inteiros aleatórios entre 0 e 100. Selecione os números do índice 5 ao 15 e exiba o resultado;
+Dada uma matriz 5x5 de números aleatórios, extraia a submatriz 2x2 localizada na parte superior esquerda;
 
 ## 10. Operações Lógicas
 Crie um array 1D de 10 números inteiros aleatórios. Verifique quais elementos são maiores que 5 e exiba o resultado como um array booleano;
