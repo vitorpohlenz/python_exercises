@@ -7,7 +7,8 @@ Crie um array unidimensional (1D) contendo os números de 0 a 9 usando o Numpy. 
 Crie um array bidimensional (2D) 3x3 com valores de 1 a 9 usando o Numpy. Exiba a matriz e suas dimensões;
 
 ## 3. Operação de Soma em Arrays
-Crie dois arrays 1D de tamanho 5, contendo números inteiros aleatórios entre 1 e 10. Realize a soma entre esses arrays;
+Crie dois arrays 1D de tamanho 5, contendo números inteiros aleatórios entre 1 e 10.
+Realize a soma entre esses arrays, garanta que os mesmos números aleatórios sejam usados indiferente de quantas vezes o código seja executado;
 
 ## 4. Operações Matemáticas Elementares
 Dado um array 1D de números inteiros de 1 a 5, calcule o quadrado de cada elemento usando operações do Numpy;
