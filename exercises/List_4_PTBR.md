@@ -20,13 +20,13 @@ Crie duas matrizes 3x3 de números aleatórios e calcule o produto matricial ent
 Crie uma matriz 4x3 de números aleatórios e calcule sua transposta usando o Numpy;
 
 ## 7. Produto interno usual
-O que acontece se utilizar o operador `.dot()` ou `@` entre dois arrays do mesmo tamanho? E entre uma matriz e um array ? Respeitando sempre a coerência entre o número de dimensões da matriz e elementos do array;
+O que acontece se utilizar o operador `.dot()` ou `@` entre dois arrays do mesmo tamanho? E entre uma matriz e um array ? Lembre-se de respeitar a coerência entre o número de dimensões da matriz e elementos do array;
 
 ## 8. Redimensionamento de Arrays
 Crie um array 1D contendo 12 números e redimensione-o para uma matriz 3x4;
 
 ## 9. Indexação e Slicing
-Dada uma matriz 5x5 de números aleatórios, extraia a submatriz 2x2 localizada na parte superior esquerda;
+Dada uma matriz 5x5 de números aleatórios, extraia a submatriz 2x2 localizada na parte superior direita;
 
 ## 10. Operações Lógicas
 Crie um array 1D de 10 números inteiros aleatórios. Verifique quais elementos são maiores que 5 e exiba o resultado como um array booleano;
