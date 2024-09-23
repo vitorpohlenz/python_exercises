@@ -43,7 +43,7 @@ Crie um gráfico de contorno usando Matplotlib para a função `z = sin(x) * cos
 Usando Matplotlib, crie um gráfico de densidade para representar 1000 pontos gerados aleatoriamente com distribuição normal em duas dimensões;
 
 ## 15. Solução de Sistemas Lineares
-Usando `linalg.solve` de SciPy, resolva o sistema linear abaixo e mostre a solução com os vetores resultantes em um gráfico Matplotlib.
+Usando `linalg.solve` de SciPy, resolva o sistema linear abaixo e mostre a solução com o vetor resultante em um gráfico Matplotlib.
 $$
 2x + y = 3 \\
 x - y = 1
