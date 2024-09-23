@@ -13,7 +13,7 @@ Crie um gráfico de dispersão (scatter plot) com 50 pontos aleatórios usando `
 Gere 1000 números aleatórios com distribuição normal usando `numpy` e crie um histograma usando Matplotlib. Defina o número de bins para 30;
 
 ## 5. Subplots em um Gráfico
-Usando Matplotlib, crie dois subplots em uma única janela gráfica. O primeiro deve ser um gráfico de linha, e o segundo, um gráfico de barras.
+Usando Matplotlib, crie dois subplots em uma única janela gráfica. O primeiro deve ser um gráfico de linha, e o segundo, um gráfico de barras;
 
 ## 6. Gráfico de Pizza
 Usando Matplotlib, crie um gráfico de pizza para exibir a porcentagem de mercado de cinco produtos diferentes. Adicione rótulos aos setores e destaque o maior setor;
