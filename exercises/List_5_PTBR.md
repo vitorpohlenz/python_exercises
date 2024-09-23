@@ -34,7 +34,7 @@ Usando SciPy, aplique a transformada de Fourier em um sinal simples, como `sin(x
 Usando a função `interp1d` de SciPy, faça a interpolação linear de um conjunto de 5 pontos de dados. Plote tanto os dados originais quanto a curva interpolada usando Matplotlib;
 
 ## 12. Integração Numérica
-Use a função `quad` de SciPy para integrar a função `f(x) = x^2` no intervalo de 0 a 2. Mostre o resultado da integração;
+Use a função `quad` de SciPy para integrar a função `f(x) = x^2` no intervalo de 0 a 3. Mostre o resultado da integração;
 
 ## 13. Gráfico de Contorno
 Crie um gráfico de contorno usando Matplotlib para a função `z = sin(x) * cos(y)`, onde `x` e `y` variam de -5 a 5. Adicione uma barra de cores ao lado do gráfico;
