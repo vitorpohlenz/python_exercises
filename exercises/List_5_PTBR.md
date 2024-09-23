@@ -45,7 +45,7 @@ Usando Matplotlib, crie um gráfico de densidade para representar 1000 pontos ge
 ## 15. Solução de Sistemas Lineares
 Usando `linalg.solve` de SciPy, resolva o sistema linear abaixo e mostre a solução com os vetores resultantes em um gráfico Matplotlib.
 $$
-2x + y = 3
+2x + y = 3 \\
 x - y = 1
 $$
 ;
