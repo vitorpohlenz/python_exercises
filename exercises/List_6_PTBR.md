@@ -9,8 +9,8 @@ Usando SymPy, resolva a equação quadrática `x^2 - 4x + 3 = 0` e exiba as solu
 ## 3. Criação de DataFrame no Pandas
 Crie um DataFrame no Pandas contendo os dados de vendas de uma loja nos meses de janeiro a março. As colunas devem ser: `Month`, `Revenue`, `Expenses`. Exiba o DataFrame ;
 
-## 4. Leitura de Arquivo CSV
-Usando o Pandas, leia um arquivo CSV com dados de vendas e exiba as 5 primeiras linhas do DataFrame. Suponha que o arquivo tenha colunas `Product`, `Sales`, e `Month` ;
+## 4. Escrita de Arquivo CSV
+Usando o Pandas, crie um DataFrame qualquer e salve o mesmo como arquivo `.csv` sem index;
 
 ## 5. Filtragem de Dados no Pandas
 A partir de um DataFrame com dados de vendas, filtre os registros onde as vendas foram maiores que 500 unidades ;
