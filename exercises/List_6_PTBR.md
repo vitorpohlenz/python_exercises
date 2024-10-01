@@ -37,7 +37,7 @@ Usando Plotly, crie um gráfico de linha para representar o crescimento populaci
 Crie um gráfico de barras com Plotly para mostrar as vendas de diferentes produtos em um mês. Adicione um título ao gráfico e rótulos para os eixos ;
 
 ## 13. Gráfico de Dispersão com Plotly
-Usando Plotly, crie um gráfico de dispersão para visualizar a relação entre o peso e a altura de 100 indivíduos. Adicione rótulos aos pontos e diferencie as cores por gênero ;
+Carrege o dataset `iris` do Ploty presente em `plotly.express.data`, e usando Plotly, crie um gráfico de dispersão para visualizar a relação entre `petal_length` e `petal_width`. Adicione rótulos aos pontos e diferencie as cores por `species` também coloque uma linha vertical e outra horizontal indicando o valor médio de cada variável;
 
 ## 14. Gráfico 3D com Plotly
 Usando Plotly, crie um gráfico 3D para plotar uma função matemática `z = sin(x) * cos(y)`, onde `x` e `y` variam de -5 a 5. Adicione um título e ajuste a visualização ;
