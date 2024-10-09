@@ -10,13 +10,17 @@ Modifique o exercício anterior para executar duas threads que imprimam números
 Implemente um contador compartilhado entre duas threads. As threads devem incrementar o contador 1000 vezes. Use um `Lock` para evitar condições de corrida e garantir que o contador final seja 2000 ;
 
 ## 4. Multiprocessing com Processos Simples
+<font color = "yellow"> Atenção: </font> Faça esse exercício em um Sistema Operacional Linux (como no Google Colab). Não é recomendado usar `multiprocessing` em Windows, devido ao gerenciamento de processos do Sistema Operacional. Se executado em Windows levará muito mais tempo para executar do que um simples `for`. [Explicação aqui](https://stackoverflow.com/questions/52465237/multiprocessing-slower-than-serial-processing-in-windows-but-not-in-linux).
+
 Crie um programa que inicie dois processos paralelos usando o módulo `multiprocessing`, onde cada processo calcula o quadrado de números de 1 a 5. Exiba os resultados ao final ;
 
 ## 5. Compartilhamento de Dados entre Processos
+<font color = "yellow"> Atenção: </font> Faça esse exercício em um Sistema Operacional Linux (como no Google Colab). Não é recomendado usar `multiprocessing` em Windows, devido ao gerenciamento de processos do Sistema Operacional. Se executado em Windows levará muito mais tempo para executar do que um simples `for`. [Explicação aqui](https://stackoverflow.com/questions/52465237/multiprocessing-slower-than-serial-processing-in-windows-but-not-in-linux).
+
 Usando o módulo `multiprocessing`, crie uma fila (`Queue`) para compartilhar dados entre dois processos. O primeiro processo deve adicionar números de 1 a 5 na fila, enquanto o segundo processo retira e imprime esses números ;
 
 ## 6. Pool de Processos
-<font color = "yellow"> Atenção: </font> Faça esse exercício em um Sistema Operacional Linux (como no Google Colab). Não é recomendado usar `multiprocessing.Pool` em Windows, devido ao gerenciamento de processos do Sistema Operacional. Se executado em Windows levará muito mais tempo para executar do que um simples `for`. [Explicação aqui](https://stackoverflow.com/questions/52465237/multiprocessing-slower-than-serial-processing-in-windows-but-not-in-linux).
+<font color = "yellow"> Atenção: </font> Faça esse exercício em um Sistema Operacional Linux (como no Google Colab). Não é recomendado usar `multiprocessing` em Windows, devido ao gerenciamento de processos do Sistema Operacional. Se executado em Windows levará muito mais tempo para executar do que um simples `for`. [Explicação aqui](https://stackoverflow.com/questions/52465237/multiprocessing-slower-than-serial-processing-in-windows-but-not-in-linux).
 
 Implemente um programa que use `multiprocessing.Pool` para calcular os quadrados de uma lista de números. Use 4 processos no pool para paralelizar a execução ;
 
