@@ -16,6 +16,8 @@ Crie um programa que inicie dois processos paralelos usando o módulo `multiproc
 Usando o módulo `multiprocessing`, crie uma fila (`Queue`) para compartilhar dados entre dois processos. O primeiro processo deve adicionar números de 1 a 5 na fila, enquanto o segundo processo retira e imprime esses números ;
 
 ## 6. Pool de Processos
+<font color = "yellow"> Atenção: </font> Faça esse exercício em um Sistema Operacional Linux (como no Google Colab). Não é recomendado usar `multiprocessing.Pool` em Windows, devido ao gerenciamento de processos do Sistema Operacional. Se executado em Windows levará muito mais tempo para executar do que um simples `for`. [Explicação aqui](https://stackoverflow.com/questions/52465237/multiprocessing-slower-than-serial-processing-in-windows-but-not-in-linux).
+
 Implemente um programa que use `multiprocessing.Pool` para calcular os quadrados de uma lista de números. Use 4 processos no pool para paralelizar a execução ;
 
 ## 7. Uso de `concurrent.futures.ThreadPoolExecutor`
