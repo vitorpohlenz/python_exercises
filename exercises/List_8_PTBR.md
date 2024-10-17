@@ -28,4 +28,4 @@ Use o comando `find` para encontrar todos os arquivos `.txt` dentro do diretóri
 Utilizando o arquivo `sample.txt`, exiba as 10 primeiras linhas do arquivo com o comando `head`. Caso o arquivo tenha menos de 10 linhas, exiba todas elas;
 
 ## 10. Contar o Número de Linhas, Palavras e Caracteres de um Arquivo
-Use o comando `wc` para contar o número de linhas, palavras e caracteres no arquivo `sample.txt`.
+Use o comando `wc` para contar o número de linhas, palavras e caracteres no arquivo `sample.txt`;
