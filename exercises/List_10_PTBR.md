@@ -12,4 +12,4 @@ Carregue o dataset utilizando `seaborn.load_dataset('penguins')` e então treine
 
 ## 2. Classificação com o Dataset Iris
 Treine um modelo de classificação com PyTorch para prever a espécie de cada flor no dataset Iris com base em suas características.
-Para tal, carregue esse data set utilizando a função `load_iris()` disponível em `sklearn.datasets`.
+Para tal, carregue esse data set utilizando a função `load_iris()` disponível em `sklearn.datasets`;
